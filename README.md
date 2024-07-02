@@ -1,6 +1,6 @@
 ## Hi there 👋
- 🔭 I’m a  B.Tech Final Year Student of ECE 
- 🌱 I’m currently exploring web development and Data Structures and Algorithms 
+ 🔭 I’m a  B.Tech Final Year Student of ECE.  
+ 🌱 I’m currently exploring web development and Data Structures and Algorithms.  
  📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ashish-kumar-yadav-72a9b2222/)
  
 <!--
