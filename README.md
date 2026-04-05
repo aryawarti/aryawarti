@@ -1,6 +1,6 @@
 ## Hi there 👋
  🔭 I’m a Ashish, A software Engineer in Infosys.  
- 🌱 I’m currently exploring web development and Data Structures and Algorithms.  
+ 🌱 I’m Expert in Java Development and Data Structures and Algorithms.  
  📫 How to reach me  
     -> [LinkedIn](https://www.linkedin.com/in/ashish-kumar-yadav-72a9b2222/)  
     -> [Twitter](https://x.com/Aryawarti26)
