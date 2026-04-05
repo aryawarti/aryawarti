@@ -1,5 +1,5 @@
 ## Hi there 👋
- 🔭 I’m a Ashish, A software Engineer in Infosys.  
+ 🔭 I’m Ashish, A software Engineer in Infosys.  
  🌱 I’m Expert in Java Development and Data Structures and Algorithms.  
  📫 How to reach me  
     -> [LinkedIn](https://www.linkedin.com/in/ashish-kumar-yadav-72a9b2222/)  
